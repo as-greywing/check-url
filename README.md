@@ -5,4 +5,4 @@ This will run through a csv of URLs to check if it is safe by using
 
 Run using `env-cmd node index.js`
 
-1. script will check `sample.csv` then write results to `processed.csv`
+1. script will check `urls.csv` then write results to `processed.csv`
